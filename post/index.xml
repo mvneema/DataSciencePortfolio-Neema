@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Neema MV</title>
-    <link>https://mvneema.github.io/DataScience_Portfolio/post/</link>
+    <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/</link>
     <description>Recent content in Projects on Neema MV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://mvneema.github.io/DataScience_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mvneema.github.io/DataSciencePortfolio-Neema/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 1: Game Behavior Analysis</title>
-      <link>https://mvneema.github.io/DataScience_Portfolio/post/project-1/</link>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-1/</link>
       <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://mvneema.github.io/DataScience_Portfolio/post/project-1/</guid>
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-1/</guid>
       <description>In this study, we aim to study whether it is possible to predict a specific game behavior in a Role Play Game, Fallout 3, based on players’ real world characteristics (e.g. personality trait scores, game expertise and gender information). Precise and correct prediction of in-game actions will, for example, help game designers provide more customized and dynamic contents to players.   Link to Githbub repository</description>
     </item>
     
     <item>
       <title>Project 2: Insurance leverage customers</title>
-      <link>https://mvneema.github.io/DataScience_Portfolio/post/project-2/</link>
+      <link>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       
-      <guid>https://mvneema.github.io/DataScience_Portfolio/post/project-2/</guid>
+      <guid>https://mvneema.github.io/DataSciencePortfolio-Neema/post/project-2/</guid>
       <description>Context: Leveraging customer information is paramount for most businesses. In the case of an insurance company, attributes of customers like (age,sex,bmi,children,smoker,region,charges)can be crucial in making business decisions. Hence, knowing to explore and generate value out of such data can be an invaluable skill to have.   Link to Github repository</description>
     </item>
     
